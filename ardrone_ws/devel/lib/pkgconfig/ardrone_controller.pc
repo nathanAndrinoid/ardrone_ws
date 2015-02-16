@@ -1,0 +1,8 @@
+prefix=/home/nanderso/testgit/ardrone_controller/devel
+
+Name: ardrone_controller
+Description: Description of ardrone_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/nanderso/testgit/ardrone_controller/devel/lib 
+Requires: 
