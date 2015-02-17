@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "ardrone_controller")
+set(ardrone_controller_MAINTAINER "nathan <nathana@nmsu.edu>")
+set(ardrone_controller_DEPRECATED "")
+set(ardrone_controller_VERSION "0.0.0")
+set(ardrone_controller_BUILD_DEPENDS "geometry_msgs" "roscpp" "gazebo_msgs" "gazebo_ros" "ardrone_autonomy" "std_msgs")
+set(ardrone_controller_RUN_DEPENDS )
+set(ardrone_controller_BUILDTOOL_DEPENDS "catkin")
