@@ -1,2 +1,0 @@
-ardrone_controller
--DCATKIN_DEVEL_PREFIX=/home/nanderso/testgit/ardrone_controller/devel -DCMAKE_INSTALL_PREFIX=/home/nanderso/testgit/ardrone_controller/install -G Unix Makefiles
