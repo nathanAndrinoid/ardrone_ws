@@ -4,7 +4,7 @@ In order to use this starter code to build your drone controls you will need to 
 
 1.) First clone the repository:
 
-   git clone https://github.com/nathanAndrinoid/ardrone_controller
+   git clone https://github.com/nathanAndrinoid/ardrone_ws
 
 2.) Open the source main.cpp file in the following directory to edit the code.
 
